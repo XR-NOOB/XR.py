@@ -142,10 +142,10 @@ while True:
 	print(red+" [>] XR-BombeR ~For BD~\n [>] Contact Me–")
 	a=str(input(" [+]select Your Option : "))
 	if a =="1":
-		os.system ("python3 bomb.py ")
+		os.system ("python3 BomB.py ")
 		a=input()
 	elif a=="2":
-		os.system ("python3 cn.py")
+		os.system ("python3 BomB.py")
 		a=input()
 	else:
 		print(red+"[✘] Worng Value Entered")
